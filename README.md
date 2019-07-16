@@ -1,2 +1,2 @@
 # ChatServerArtifacts
-DLL build for SignalR Chat Server
+DLL Aritifacts for SignalR Chat Server for continuous Integration and delivery
